@@ -1,4 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!!!!!!!!!!!!!!!!!!!!!!!!!");
-Console.WriteLine("Hello, World!!!!!!!!!!!!!!!!!!!!!!!!!");
+﻿using System;
 
+namespace modul9_10302240119
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            BankTransferConfig config = BankTransferConfig.Load();
+            Console.WriteLine("Current language: " + config.lang);
+
+            bool status = false;
+        }
+    }
+}

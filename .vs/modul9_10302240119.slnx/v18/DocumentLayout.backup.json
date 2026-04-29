@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{4B2BEB88-20C3-310F-16C0-622E81300D37}|modul9_10302240119.csproj|d:\\modul9_10302240119\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B2BEB88-20C3-310F-16C0-622E81300D37}|modul9_10302240119.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2BEB88-20C3-310F-16C0-622E81300D37}|modul9_10302240119.csproj|d:\\modul9_10302240119\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2BEB88-20C3-310F-16C0-622E81300D37}|modul9_10302240119.csproj|solutionrelative:banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2BEB88-20C3-310F-16C0-622E81300D37}|modul9_10302240119.csproj|d:\\modul9_10302240119\\bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B2BEB88-20C3-310F-16C0-622E81300D37}|modul9_10302240119.csproj|solutionrelative:bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +32,35 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\modul9_10302240119\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T00:06:22.347Z",
+              "WhenOpened": "2026-04-29T00:49:50.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankTransferConfig.cs",
+              "DocumentMoniker": "D:\\modul9_10302240119\\BankTransferConfig.cs",
+              "RelativeDocumentMoniker": "BankTransferConfig.cs",
+              "ToolTip": "D:\\modul9_10302240119\\BankTransferConfig.cs",
+              "RelativeToolTip": "BankTransferConfig.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwD4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T00:48:52.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bank_transfer_config.json",
+              "DocumentMoniker": "D:\\modul9_10302240119\\bank_transfer_config.json",
+              "RelativeDocumentMoniker": "bank_transfer_config.json",
+              "ToolTip": "D:\\modul9_10302240119\\bank_transfer_config.json",
+              "RelativeToolTip": "bank_transfer_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-29T00:26:51.035Z",
               "EditorCaption": ""
             }
           ]
