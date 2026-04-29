@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Downloads\\modul9_10302240119\\modul9_10302240119.csproj",
+      "projectUniqueName": "D:\\modul9_10302240119\\modul9_10302240119.csproj",
       "projectName": "modul9_10302240119",
-      "projectPath": "C:\\Users\\PRAKTIKAN\\Downloads\\modul9_10302240119\\modul9_10302240119.csproj",
+      "projectPath": "D:\\modul9_10302240119\\modul9_10302240119.csproj",
       "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PRAKTIKAN\\Downloads\\modul9_10302240119\\obj\\",
+      "outputPath": "D:\\modul9_10302240119\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

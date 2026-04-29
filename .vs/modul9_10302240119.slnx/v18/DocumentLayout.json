@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PRAKTIKAN\\Downloads\\modul9_10302240119\\",
+  "WorkspaceRootPath": "D:\\modul9_10302240119\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FECDBFEE-0D38-4ED0-B964-B18D6933A807}|modul9_10302240119.csproj|c:\\users\\praktikan\\downloads\\modul9_10302240119\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FECDBFEE-0D38-4ED0-B964-B18D6933A807}|modul9_10302240119.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B2BEB88-20C3-310F-16C0-622E81300D37}|modul9_10302240119.csproj|d:\\modul9_10302240119\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2BEB88-20C3-310F-16C0-622E81300D37}|modul9_10302240119.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PRAKTIKAN\\Downloads\\modul9_10302240119\\Program.cs",
+              "DocumentMoniker": "D:\\modul9_10302240119\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\PRAKTIKAN\\Downloads\\modul9_10302240119\\Program.cs",
+              "ToolTip": "D:\\modul9_10302240119\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-29T00:06:22.347Z",
               "EditorCaption": ""
